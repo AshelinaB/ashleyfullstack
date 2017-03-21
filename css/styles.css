@@ -1,4 +1,11 @@
 
+
+body {
+	background-color:#8FBC8F;
+}
+
+
+
 <style>
 .dropdown{
 	position:relative;
@@ -27,6 +34,5 @@ li a {
 	padding: 15px;
 }
 
-div{
-	background-color:#516956;
-}
+
+
