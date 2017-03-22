@@ -1,10 +1,10 @@
-.topnav{
+.nav{
     
     background-color:#563635;
     overflow:hidden;
 }
-.topnav a{
-    float;left;
+.nav a{
+    float:left;
     display: block;
     text-align: center;
     padding: 14px 16px;
@@ -15,20 +15,13 @@
     display:block;
 }
 
-.header{
-    height:30px;
-    background:red;
-}
-
 body{
     margin:0;
     padding:0;
-    background color:#5B6057;
+    text-align: center;
+    background-color:#5B6057;
 }
 
-.center{
-    text-align: center;
-}
 .content{
     height:100;
     padding-top:10px;
