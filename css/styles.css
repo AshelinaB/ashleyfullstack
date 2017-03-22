@@ -1,14 +1,17 @@
-.nav{
-    
-    background-color:#563635;
+ nav{
+    background-color:#563635 ;
     overflow:hidden;
 }
-.nav a{
+nav li{
+    list-style:none;
+}
+nav a{
     float:left;
     display: block;
     text-align: center;
     padding: 14px 16px;
     font-size:17px;
+    color:#fff;
 }
 
 .dropdown:hover .dropdown-content{
